@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StripeDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="enter_card_details">Enter Card Details :</string>
+    <string name="expiry_date">"Expiry Date: "</string>
+    <string name="cvc_number">CVC Number</string>
+    <string name="make_payment">Make Payment</string>
+
+</resources>
